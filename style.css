@@ -1,0 +1,11 @@
+.widewrapper {
+  width:100%;
+  }
+
+.widewrapper > img {
+  width:100%;
+}
+
+#jumbotxt  {
+  text-align: center;
+}
